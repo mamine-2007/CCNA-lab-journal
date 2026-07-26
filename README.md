@@ -7,13 +7,27 @@ This repository documents my hands-on practice while preparing for the **Cisco C
 
 Each folder contains a lab exercise with the Packet Tracer file (.pkt), a topology screenshot, and a short explanation of what was configured and why.
 
-## 📁 Labs
+# Lab 01 - My First Network 🌐
 
-| Lab | Topics Covered | Status |
-|-----|-----------------|--------|
-| [My first Network] 
-| [Lab 01 - Basic Switch Config](./lab-01-basic-switch-config) | VLANs, Switchport config | ✅ |
-| [Lab 02 - Inter-VLAN Routing](./lab-02-inter-vlan-routing) | Router-on-a-stick, Trunking | ⏳ |
+## 🎯 Objective
+Build my first basic network in Cisco Packet Tracer, connecting multiple end devices 
+through a switch and verifying connectivity between them.
+
+## 🖥️ Topology
+![Topology](topology.png)
+
+## 🧰 Devices Used
+- [Número] PC(s)
+- 1 Switch ([modelo, ej: 2960])
+- [Si usaste router: 1 Router (modelo)]
+
+## ⚙️ What I Configured
+- Connected [número] PCs to the switch using straight-through copper cables
+- Assigned static IP addresses to each PC within the same subnet ([ej: 192.168.1.0/24])
+- Verified that all devices could communicate with each other using `ping`
+- [Añade aquí cualquier otra cosa que hicieras, ej: "Configured a default gateway", "Added a router for inter-VLAN routing", etc.]
+
+## 🔑 Key Configuration Steps
 
 ## 🎯 Purpose
 This journal is part of my journey from Networking fundamentals toward my long-term goal 
