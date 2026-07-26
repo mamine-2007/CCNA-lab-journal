@@ -21,3 +21,4 @@ designing solid cloud infrastructure.
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/mohamed-amine-ait-lahsouf-el-hissoufi-72642b3b9 ]
+- Email: [amine.ait.mp@gmail.com  ]
