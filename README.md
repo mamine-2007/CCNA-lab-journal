@@ -11,6 +11,7 @@ Each folder contains a lab exercise with the Packet Tracer file (.pkt), a topolo
 
 | Lab | Topics Covered | Status |
 |-----|-----------------|--------|
+| [My first Network] 
 | [Lab 01 - Basic Switch Config](./lab-01-basic-switch-config) | VLANs, Switchport config | ✅ |
 | [Lab 02 - Inter-VLAN Routing](./lab-02-inter-vlan-routing) | Router-on-a-stick, Trunking | ⏳ |
 
